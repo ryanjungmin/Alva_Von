@@ -1,17 +1,9 @@
-![Image]("Ryan_square.jpg")
-
-
-
 # RYAN CHOI
-<p> Market Research | Data Analysis | Contracts | Business Development <p>
-<p> Market Research | Data Analysis | Contracts | Business Development <p>
-<br> Market Research | Data Analysis | Contracts | Business Development <br>
-<br> Market Research | Data Analysis | Contracts | Business Development <br>
-Market Research | Data Analysis | Contracts | Business Development
 Market Research | Data Analysis | Contracts | Business Development
 
 
-## WORK EXPERIENCE
+
+## <BR>WORK EXPERIENCE
 ### SGM _Korea_
 _Marketing Intern, January 2021 ~ Present_
 - Identify effectiveness and impact of current marketing initiatives with tracking and analysis, and optimize accordingly
