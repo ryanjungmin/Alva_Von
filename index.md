@@ -17,15 +17,18 @@ Syntax highlighted code block
 
 
 
-
-
+![Image]<img src=""Ryan_square.jpg"">
+![Image]<"Ryan_square.jpg">
+![Image](img src="Ryan_square.jpg")
+![Image]("Ryan_square.jpg")
+![Image](img src="Ryan_square.jpg")
 
 # RYAN CHOI
 Market Research | Data Analysis | Contracts | Business Development
 ## WORK EXPERIENCE
 ### SGM _Korea_
 _Marketing Intern, January 2021 ~ Present_
-
+- Identify effectiveness and impact of current marketing initiatives with tracking and analysis, and optimize accordingly
 
 
 
