@@ -1,27 +1,6 @@
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-
-![Image]<img src=""Ryan_square.jpg"">
-![Image]<"Ryan_square.jpg">
-![Image](img src="Ryan_square.jpg")
 ![Image]("Ryan_square.jpg")
-![Image](img src="Ryan_square.jpg")
+
+
 
 # RYAN CHOI
 Market Research | Data Analysis | Contracts | Business Development
@@ -29,8 +8,8 @@ Market Research | Data Analysis | Contracts | Business Development
 ### SGM _Korea_
 _Marketing Intern, January 2021 ~ Present_
 - Identify effectiveness and impact of current marketing initiatives with tracking and analysis, and optimize accordingly
-
-
+- Present ideas and final deliverables to internal and external teams, and communicate with senior leaders about marketing programs, strategies, and budgets
+- Conceptualize and execute on multi-channel campaigns across the prospect and customer lifecycle, ensuring the alignment of communications and messaging across all channels
 
 
 
