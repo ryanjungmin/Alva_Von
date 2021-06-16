@@ -1,6 +1,30 @@
-# Ryan Choi
-Market Research | Data Analysis | Contracts | Business Development
 
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+
+
+
+
+
+
+# RYAN CHOI
+Market Research | Data Analysis | Contracts | Business Development
+## WORK EXPERIENCE
+### SGM _Korea_
+_Marketing Intern, January 2021 ~ Present_
 
 
 
