@@ -12,7 +12,7 @@ _Marketing Intern, January 2021 ~ Present_
 
 
 
-## Welcome to GitHub Pages
+## <BR>Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ryanjungmin/Alva_Von/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
